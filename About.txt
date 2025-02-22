@@ -1,0 +1,13 @@
+7HUES v.1.2.0 is released , the new version is a result of reforming some key elements of the game as well as performing some minor changes as per your recommendations, the following amendments have been made :
+
+1> Smooth,unruffled and leisure movement of the player
+
+2>Now you can also use the space bar for upward motion
+
+3> The pause feature has been added
+
+4> Bugs have been fixed and minor changes to graphical widgets(icon,splash screen,logo)
+
+The game will be further improved and is open to some amazing ideas and suggestions from you.
+
+Regards.
